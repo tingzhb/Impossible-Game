@@ -315,7 +315,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"collection":{"$content":[{"name":"Ouch","value":{"$content":"YOU
+      DIED!","$type":"System.String"},"$version":"A"},{"name":"LoseMessage","value":null,"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
 --- !u!114 &8168162815443079839
 MonoBehaviour:
