@@ -9,7 +9,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 837174863627003899}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: a5c059923e428f64da325a2e9a7cfc52, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -179,8 +179,12 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7463761037833648652, guid: a285c322a3fe56d47adf441d349b964e, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.048828032
+      objectReference: {fileID: 0}
+    - target: {fileID: 7463761037833648652, guid: a285c322a3fe56d47adf441d349b964e, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.00007
+      value: -0.0000003
       objectReference: {fileID: 0}
     - target: {fileID: 7463761037833648652, guid: a285c322a3fe56d47adf441d349b964e, type: 3}
       propertyPath: m_LocalPosition.y
